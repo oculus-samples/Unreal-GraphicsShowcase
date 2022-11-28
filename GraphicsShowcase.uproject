@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{079EDF32-4745-DD84-FBC4-48AAA4FD679C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GraphicsShowcase",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OculusXR",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8313d8d7e7cf4e03a33e79eb757bccba",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "GooglePAD",
+			"Enabled": false
+		}
+	],
+	"TargetPlatforms": [
+		"Android"
+	]
+}
