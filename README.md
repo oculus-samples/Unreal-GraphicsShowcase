@@ -7,7 +7,7 @@ Tone mapping is an important artistic tool for developers. Graphics Showcase fea
 Graphics Showcase is also available on [AppLab](https://www.oculus.com/experiences/quest/5543894545665788) as a playable apk.
 
 **Engine**<br>
-This project depends on the [Oculus fork of UE5](https://github.com/Oculus-VR/UnrealEngine/tree/oculus-5.0) as it requires engine changes not yet upstreamed to Epic. Follow [Epic's instructions](https://www.unrealengine.com/en-US/ue-on-github
+This project depends on the [Oculus fork of UE5](https://github.com/Oculus-VR/UnrealEngine/tree/oculus-5.3) as it requires engine changes not yet upstreamed to Epic. Follow [Epic's instructions](https://www.unrealengine.com/en-US/ue-on-github
 ) to get access to the engine repo.
 
 **Setup**<br>
@@ -27,6 +27,13 @@ This project depends on the [Oculus fork of UE5](https://github.com/Oculus-VR/Un
 - Right Grip - Toggle MSAA (1/2/4)
 - Right Stick Click - Toggle headlock mode on/off for profiling
 
+
+# Updates
+## 20 December 2023 Update
+
+We updated the project to UE5.3.
+
+# Misc
 
 **License**<br>
 The Meta SDK License applies to this project and supporting material.
