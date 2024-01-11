@@ -16,8 +16,8 @@ This project depends on the [Oculus fork of UE5](https://github.com/Oculus-VR/Un
 - Open command prompt and navigate to your UE5 directory. 
 - Run: "GenerateProjectFiles.bat \<Full path to GraphicsShowcase.uproject\> -Game"
   - For example: "GenerateProjectFiles.bat D:\Unreal-GraphicsShowcase\GraphicsShowcase.uproject -Game"
-- Open UE5.sln in the engine directory.
-- You should see GraphicsShowcase listed in the solution explorer. Right click and set this as your startup project.
+- Open GraphicsShowcase.sln in the project directory.
+- You should see GraphicsShowcase listed in the solution explorer as the startup project (in bold). If not, Right click and set it as your startup project.
 
 
 **Controls**
