@@ -4,7 +4,7 @@
 
 Tone mapping is an important artistic tool for developers. Graphics Showcase features a Vulkan subpass-based tone mapping solution that is much more performant than traditional techniques.
 
-Graphics Showcase is also available on [AppLab](https://www.oculus.com/experiences/quest/5543894545665788) as a playable apk.
+Graphics Showcase is also available on [Horizon Store](https://www.meta.com/experiences/5543894545665788/) as a playable apk.
 
 ## Engine
 This project depends on the [Oculus fork of UE5](https://github.com/Oculus-VR/UnrealEngine/tree/oculus-5.3) as it requires engine changes not yet upstreamed to Epic. Follow [Epic's instructions](https://www.unrealengine.com/en-US/ue-on-github
